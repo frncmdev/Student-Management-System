@@ -1,0 +1,14 @@
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\bin\Debug\net7.0\core.lib.deps.json
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\bin\Debug\net7.0\core.lib.runtimeconfig.json
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\bin\Debug\net7.0\core.lib.dll
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\bin\Debug\net7.0\core.lib.pdb
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.csproj.AssemblyReference.cache
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.AssemblyInfoInputs.cache
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.AssemblyInfo.cs
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.csproj.CoreCompileInputs.cache
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.dll
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\refint\core.lib.dll
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.pdb
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\core.lib.genruntimeconfig.cache
+C:\Users\YNTMD\projects\p\Student-Management-System\application\sms_core\core.lib\obj\Debug\net7.0\ref\core.lib.dll
