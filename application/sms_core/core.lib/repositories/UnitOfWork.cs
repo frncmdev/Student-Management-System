@@ -7,15 +7,17 @@ namespace core.lib.repositories
 {
     public class UnitOfWork: IUnitOfWork
     {
-        private SmsDbContext _context;
+        private readonly SmsDbContext _context;
         // 
         public UnitOfWork()
         {
             _context = new SmsDbContext();
             courseRepository = new CourseRepository(_context);
+            studentRepository = new StudentRepository(_context);
         }
 
         public ICourseRepository courseRepository {get; private set;}
+        public IStudentRepository studentRepository {get; private set;}
 
         public async void Dispose()
         {
